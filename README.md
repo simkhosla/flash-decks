@@ -3,5 +3,5 @@ Flash Decks is a virtual flash card machine. It works as a study application and
 
 ###Live Link: https://flash-decks.herokuapp.com/
 ![Flash Decks Screenshot]
-(http://i.imgur.com/PPoTFlc.gifv)
+(http://i.imgur.com/PPoTFlc.gif)
 
